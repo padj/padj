@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @padj and I'm a data scientist in health economics
-- ✨ I gained an UG in Aerospace Engineering, and a PhD in fluid dynamics and individual-based modelling.
-- 👀 I’m interested in machine learning, data analysis, and predictive modelling.
+- 👋 Hi, I’m @padj and I'm a data scientist in health economics.
+- ✨ UG in Aerospace Engineering and PhD in fluid dynamics and individual-based modelling.
+- 👀 I’m interested in machine learning, data analysis, and predictive modelling, and their application to health.
 - 🌱 I'm big on nature, being outside, plants, and mountains.
 
 <!---
