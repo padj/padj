@@ -1,0 +1,16 @@
+1. Survival analysis - fully parametric fit visualiser
+  - upload data and it visualises hazard profiles, KM
+  - Allow user to vary parameters in fully parametric fits and visualise the hazard shape / survival fits.
+  
+2. Survival analysis dashboard 
+  - upload data and automatically have hazard profiles visualised, fully parametric fits fitted, etc.
+
+3. Power/sample size calculator
+
+4. Generalised partitioned survival model
+  - with trace
+  
+5. Generalised Markov model
+  - with trace
+
+6. 
