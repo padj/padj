@@ -12,5 +12,5 @@ I’m Thomas Padgett, a principal health data scientist at [HEOR](https://www.he
 ### Interests 👀
 
  » Heuristic optimisation techniques and their application to health.  
- » Health economic evaluations in R, particularly simulation (individual-level) models for obesity and diabetes. 
+ » Health economic evaluations in R, particularly simulation (individual-level) models for obesity and diabetes.  
  » Building simple example models on Github (PSM, cSTM, SEIR, etc.)
