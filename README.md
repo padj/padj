@@ -6,7 +6,7 @@ I’m Thomas Padgett, a principal health data scientist at [HEOR](https://www.he
 
  » Machine learning and data analytics using real world data (CPRD/HES).  
  » Derivation of risk equations from clinical trials.  
- » Population-level infectious disease modelling & vaccine public health impact. 
+ » Population-level infectious disease modelling & vaccine public health impact.  
  » Early drug pricing/revenue forecasting, inc. optimisation approaches for market access launch sequencing.
  
 ### Interests 👀
