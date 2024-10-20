@@ -4,7 +4,7 @@ I’m Thomas Padgett, a principal health data scientist at [HEOR](https://www.he
 
 ### On-going work ✨
 
- » Discrete event simulation for capacity planning
+ » Discrete event simulation for capacity planning.  
  » Machine learning and data analytics using real world data (CPRD/HES).  
  » Public health policy modelling.  
  » Early drug pricing/revenue forecasting, inc. optimisation approaches for market access launch sequencing.
