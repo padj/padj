@@ -4,7 +4,7 @@ I’m Thomas Padgett, a principal consultant with the operational research group
 
 ### On-going work ✨
 
- » Multi-indication modelling and pricing.
+ » Multi-indication modelling and pricing.  
  » Discrete event simulation for capacity planning.  
  » Machine learning and data analytics using real world data (CPRD/HES).  
  » Public health policy modelling.  
